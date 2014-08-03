@@ -1,0 +1,85 @@
+C:\Users\Nico\AppData\Local\Temporary Projects\AKW-Simulator\bin\Debug\AKW-Simulator.exe
+C:\Users\Nico\AppData\Local\Temporary Projects\AKW-Simulator\bin\Debug\AKW-Simulator.pdb
+C:\Users\Nico\AppData\Local\Temporary Projects\AKW-Simulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nico\AppData\Local\Temporary Projects\AKW-Simulator\obj\Debug\AKW_Simulator.Properties.Resources.resources
+C:\Users\Nico\AppData\Local\Temporary Projects\AKW-Simulator\obj\Debug\AKW-Simulator.csproj.GenerateResource.Cache
+C:\Users\Nico\AppData\Local\Temporary Projects\AKW-Simulator\obj\Debug\AKW-Simulator.exe
+C:\Users\Nico\AppData\Local\Temporary Projects\AKW-Simulator\obj\Debug\AKW-Simulator.pdb
+C:\Users\Nico\AppData\Local\Temporary Projects\AKW-Simulator\obj\Debug\AKW_Simulator.hauptfenster.resources
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\bin\Debug\AKWS_msgcfg.exe.config
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\bin\Debug\AKW-Simulator.exe.config
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\bin\Debug\AKW-Simulator.exe
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\bin\Debug\AKW-Simulator.pdb
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\bin\Debug\CounterLib.dll
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\bin\Debug\DevComponents.BubbleBar.dll
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\bin\Debug\FunkyLibrary.dll
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\bin\Debug\LBIndustrialCtrls.dll
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\bin\Debug\DevComponents.BubbleBar.xml
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\bin\Debug\RemoteObjects.pdb
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW_Simulator.AboutBox.resources
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW_Simulator.Finance.resources
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW_Simulator.hauptfenster.resources
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW_Simulator.Pause_dialog.resources
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW_Simulator.GameOver.resources
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW_Simulator.Highscore.resources
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW_Simulator.JimBonusWindow.resources
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW_Simulator.Loginscreen.resources
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW_Simulator.Mails.resources
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW_Simulator.NewsWindow.resources
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW_Simulator.Properties.Resources.resources
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW_Simulator.Rot13window.resources
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW_Simulator.Steuerstab_fehler_label.resources
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW_Simulator.Technikchat.resources
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW-Simulator.csproj.GenerateResource.Cache
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW-Simulator.exe
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW-Simulator.pdb
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\bin\Debug\AKW-Simulator.exe.manifest
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\bin\Debug\AKW-Simulator.application
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW-Simulator.TrustInfo.xml
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW-Simulator.exe.manifest
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW-Simulator.application
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW-Simulator.csproj.ResolveComReference.cache
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\bin\Debug\Interop.MediaPlayer.dll
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nico\Documents\Visual Studio 2008\Projects\AKW-Simulator\AKW-Simulator\obj\Debug\AKW_Simulator.HypeRep.resources
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\bin\Debug\AKW-Simulator.exe.config
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\Interop.MediaPlayer.dll
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\Interop.WMPLib.dll
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW-Simulator.csproj.ResolveComReference.cache
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW-Simulator.exe
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW-Simulator.pdb
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW_Simulator.AboutBox.resources
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW_Simulator.Finance.resources
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW_Simulator.Pause_dialog.resources
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW_Simulator.GameOver.resources
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW_Simulator.Highscore.resources
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW_Simulator.HypeRep.resources
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW_Simulator.JimBonusWindow.resources
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW_Simulator.Loginscreen.resources
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW_Simulator.Mails.resources
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW_Simulator.NewsWindow.resources
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW_Simulator.Rot13window.resources
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW_Simulator.Steuerstab_fehler_label.resources
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW_Simulator.Technikchat.resources
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW-Simulator.csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW_Simulator.hauptfenster.resources
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW_Simulator.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\bin\Debug\AKWS_msgcfg.exe.config
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\bin\Debug\AKW-Simulator.exe.manifest
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\bin\Debug\AKW-Simulator.application
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\bin\Debug\AKW-Simulator.exe
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\bin\Debug\AKW-Simulator.pdb
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\bin\Debug\CounterLib.dll
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\bin\Debug\DevComponents.BubbleBar.dll
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\bin\Debug\FunkyLibrary.dll
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\bin\Debug\LBIndustrialCtrls.dll
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\bin\Debug\RemoteObjects.dll
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\bin\Debug\Interop.MediaPlayer.dll
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\bin\Debug\Interop.WMPLib.dll
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW-Simulator.TrustInfo.xml
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW-Simulator.exe.manifest
+C:\Dokumente und Einstellungen\Nico\Desktop\share\AKWS Source\obj\Debug\AKW-Simulator.application
